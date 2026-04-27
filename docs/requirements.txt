@@ -32,4 +32,4 @@ pymdown-extensions~=10.21
 # Requirements for plugins
 colorama~=0.4
 paginate~=0.5
-regex>=2022.4
+regex>=2026.4.4
